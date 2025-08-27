@@ -20,3 +20,5 @@ Resultado da soma: 34.0
 Resultado da soma: 34.0
 Resultado da soma: 34.0
 Resultado da soma: 34.0
+Resultado da soma: 130.0
+Resultado da soma: 130.0
