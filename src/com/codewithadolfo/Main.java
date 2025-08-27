@@ -30,7 +30,7 @@ public class Main {
 
        calc1.numero3 = 15;
        calc1.numero2 = 15;
-       calc1.numero1 = 100;
+       calc1.numero1 = 150;
        calc1.modelo = "Calculadora Cientifica";
        calc1.status();
 
